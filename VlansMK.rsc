@@ -1,8 +1,8 @@
 # may/26/2022 17:00:50 by RouterOS 6.47.10
-# software id = IIXQ-MHF5
+# software id = IIXQ-DFGH5
 #
 # model = RB750Gr3
-# serial number = D5030F3B2B38
+# serial number = D5030F3VFD
 /interface bridge
 add name="bridgeLAN " vlan-filtering=yes
 add name=bridgeWAN
